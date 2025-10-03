@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-3 mb-6">
               <img 
-                src="/public/IMG_6322.PNG" 
+                src="/IMG_6322.PNG" 
                 alt="Zeta Innovations Logo" 
                 className="h-8 w-8"
               />

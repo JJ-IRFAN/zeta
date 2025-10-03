@@ -23,7 +23,7 @@ const FounderSection = () => {
             <div className="relative">
               <div className="w-80 h-96 rounded-2xl overflow-hidden shadow-2xl">
                 <img 
-                  src="/public/ibrahimweb.jpg" 
+                  src="/ibrahimweb.JPG" 
                   alt="Mohamed Ibrahim N - Founder & CEO of Zeta Innovations"
                   className="w-full h-full object-cover object-center"
                 />
