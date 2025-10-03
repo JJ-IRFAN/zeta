@@ -60,7 +60,7 @@ const AboutSection = () => {
                   <div className="text-gray-600">Countries Served</div>
                 </div>
                 <div className="text-center">
-                  <div className="text-4xl font-bold text-orange-600 mb-2">95%</div>
+                  <div className="text-4xl font-bold text-orange-600 mb-2">100%</div>
                   <div className="text-gray-600">Client Satisfaction</div>
                 </div>
               </div>
