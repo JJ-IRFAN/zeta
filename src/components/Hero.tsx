@@ -16,7 +16,7 @@ const Hero = () => {
           {/* Logo Badge */}
           <div className="inline-flex items-center space-x-3 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full px-6 py-3 mb-8 hover:bg-white/20 transition-all duration-300">
             <img 
-              src="/public/IMG_6322.PNG" 
+              src="/IMG_6322.PNG" 
               alt="Zeta Innovations" 
               className="h-6 w-6"
             />

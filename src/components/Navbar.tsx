@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           <Link to="/" className="flex items-center space-x-3 group">
             <img 
-              src="/public/IMG_6322.PNG" 
+              src="/IMG_6322.PNG" 
               alt="Zeta Innovations Logo" 
               className="h-10 w-10 group-hover:scale-105 transition-transform duration-300"
             />
