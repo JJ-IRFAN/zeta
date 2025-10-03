@@ -79,7 +79,7 @@ const AISolutions = () => {
           </p>
           <div className="flex items-center justify-center space-x-2">
             <img 
-              src="/IMG_6322.PNG" 
+              src="/public/IMG_6322.PNG" 
               alt="Zeta Innovations" 
               className="h-8 w-8"
             />
